@@ -1,0 +1,5 @@
+C:\Users\Администратор\Desktop\LarryClassLibrary\LarryClassLibrary\obj\Debug\net6.0\LarryClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\LarryClassLibrary\LarryClassLibrary\obj\Debug\net6.0\LarryClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\LarryClassLibrary\LarryClassLibrary\obj\Debug\net6.0\LarryClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\LarryClassLibrary\LarryClassLibrary\obj\Debug\net6.0\LarryClassLibrary.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\LarryClassLibrary\LarryClassLibrary\obj\Debug\net6.0\LarryClassLibrary.csproj.CoreCompileInputs.cache
